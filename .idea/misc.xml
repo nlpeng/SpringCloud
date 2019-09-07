@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-config-client-3355/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud-zuul-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-dept-80/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

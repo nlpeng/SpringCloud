@@ -7,7 +7,44 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springcloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-dept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-eureka-client-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-dept-client-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-hrstrix-dashb/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-dept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-dept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-provider-dept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-zuul-gateway-9527/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-config-3344/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-config-client-3355/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-config-dept-client-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-config-eureka-client-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-consumer-dept-80/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-consumer-dept-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-consumer-hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-eureka-7001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8002/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8003/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-hystrix-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/microservicecloud-zuul-gateway-9527/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../微服务架构源码/microservicecloud/pom.xml" />
+      </set>
+    </option>
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

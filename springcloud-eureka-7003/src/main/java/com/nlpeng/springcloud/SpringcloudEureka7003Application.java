@@ -11,4 +11,5 @@ public class SpringcloudEureka7003Application {
         SpringApplication.run(SpringcloudEureka7003Application.class, args);
     }
 
+    
 }

@@ -12,4 +12,5 @@ public class SpringcloudConfig3344Application {
         SpringApplication.run(SpringcloudConfig3344Application.class, args);
     }
 
+    //test
 }
